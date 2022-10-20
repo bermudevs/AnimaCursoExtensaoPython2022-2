@@ -7,3 +7,8 @@ com três aspas simples
 '''
 
 print("Hello world!")
+
+funcao = "Pedreiro"
+qtd = 24
+
+print(funcao, qtd)
