@@ -32,6 +32,7 @@ print(len(frutas))
 
 #quero incluir uma fruta nova
 frutas.append("manga")
+frutas.append("uva")
 
 print(len(frutas))
 print(frutas[3])
@@ -50,3 +51,9 @@ i = 0 #(i de index)
 while(i<len(frutas)):
   print(frutas[i])
   i = i + 1
+print("")
+
+print("exemplo das frutas com FOR")
+for fruta in frutas:
+  print(fruta)
+  
