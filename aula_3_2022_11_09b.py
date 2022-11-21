@@ -22,3 +22,4 @@ def calcular_imposto(preco_item):
 preco = 485
 imposto = calcular_imposto(preco) #o retur da linha 19 que manda pra cá a info novamente
 print(imposto)
+print("")
